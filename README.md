@@ -1,24 +1,9 @@
-# README
+# Threadly
+A very clean and modern anonymous chatting app with short messages
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Features
+* Just post your message...
 
-Things you may want to cover:
+------------------------------------
+Project from CodeAcademy's Ruby on Rails course.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

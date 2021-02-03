@@ -50,23 +50,6 @@ form input[type="text"]:focus {
   transition: background 2s border-left 2s;
 }
 
-button.btn,
-.btn {
-  background: transparent;
-  border: none;
-  color: #00f28f;
-  cursor: pointer;
-  font-size: 36px;
-  transition: background 2s color 1s;
-  padding: 20px 24px;
-}
-
-button.btn:hover,
-.btn:hover {
-  background: #00f28f;
-  color: #fff;
-  transition: background 2s color 1s;
-}
 
 ul {
   list-style: none;
